@@ -7,7 +7,7 @@
 
 - 📫 Reach me @ **sandur43@gmail.com**
 
-- ⚡ Fun fact **I tweet programming memes**
+- ⚡ Fun fact **Happily suffering from Open Source addiction , always looking for issues/bugs to fix**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,3 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=san-coding&show_icons=true&locale=en" alt="san-coding" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=san-coding&show_icons=true&locale=en&layout=compact" alt="san-coding" /></p>
+
+<h3 align="left">Checkout my projects and open source contributions</h3>
+
