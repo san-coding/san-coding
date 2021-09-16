@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep Rajakrishnan</h1>
 <h3 align="center">Git pull a day, keep those conflicts away.</h3>
 
-- 🌱 I’m currently learning **Machine learning,Data Structures,Data Science and android development**
+- 🌱 I’m currently learning **Data Science, full stack development and AWS**
 
 - 💬 Ask me about **Data Science, Machine Learning, Android Dev, Open source Contributions and community**
 
