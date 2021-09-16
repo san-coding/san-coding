@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandeep Rajakrishnan</h1>
-<h3 align="center">I Love to walk the talk about Machine learning, Data Science and the Open source Community.</h3>
+<h3 align="center">Git pull a day, keep those conflicts away.</h3>
 
 - 🌱 I’m currently learning **Machine learning,Data Structures,Data Science and android development**
 
