@@ -24,5 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=san-coding&show_icons=true&locale=en&layout=compact" alt="san-coding" /></p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+
 <h3 align="left">Checkout my projects and open source contributions</h3>
 
