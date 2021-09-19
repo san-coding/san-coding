@@ -26,7 +26,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=san-coding&theme=dark)](https://git.io/streak-stats)
 
-[![Sandeep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=san-coding)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Checkout my projects and open source contributions</h3>
