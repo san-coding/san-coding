@@ -20,11 +20,14 @@
 
 <h3 align="left">My Github Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=san-coding&show_icons=true&locale=en" alt="san-coding" /></p>
+![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=san-coding&show_icons=true&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=san-coding&show_icons=true&locale=en&layout=compact" alt="san-coding" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=san-coding&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=san-coding&theme=dark)](https://git.io/streak-stats)
+
+[![Sandeep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=san-coding)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3 align="left">Checkout my projects and open source contributions</h3>
 
