@@ -2,7 +2,7 @@
 <h3 align="center">Git pull a day, keep those conflicts away.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=san-coding&label=Profile%20views&color=0e75b6&style=flat" alt="san-coding" /> </p>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/san-coding?style=social">
-- 🌱 I’m currently learning **Data Science and AWS**
+- 🌱 I’m currently learning Data Science and AWS
 
 - 💬 Ask me about **Data Science, Machine Learning, Android Dev, Open source Contributions and community**
 
