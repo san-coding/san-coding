@@ -8,7 +8,7 @@
 
 - 📫 Reach me @ **sandur43@gmail.com**
 
-- ⚡ Fun fact **Happily suffering from Open Source addiction, always looking for issues/bugs to fix.**
+- ⚡ Fun fact **Happily suffering from Open Source addiction, always looking for issues/bugs to fix**
 - 👨🏼‍💻 Project Maintainer @ [ShopOnline](https://github.com/sudhay23/ShopOnline-Web-App)
 
 <h3 align="left">Connect with me:</h3>
