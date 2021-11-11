@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Data Science and AWS
 
-- 💬 Ask me about **Data Science, Machine Learning, Android Dev, Open source Contributions and community**
+- 💬 Ask me about **Data Science, Machine Learning, Android Dev, Open source Contributions**
 
 - 📫 Reach me @ **sandur43@gmail.com**
 
