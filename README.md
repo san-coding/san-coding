@@ -2,7 +2,8 @@
 <h3 align="center">Git pull a day, keep those conflicts away.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=san-coding&label=Profile%20views&color=0e75b6&style=flat" alt="san-coding" /> </p>
 
-- 🌱 I’m currently learning Data Science and AWS.
+- SRE @ Cisco
+- 🌱 I’m currently learning CCNA and AWS.
 
 - 💬 Ask me about **Data Science, Machine Learning, Android Dev, Open source Contributions**
 
